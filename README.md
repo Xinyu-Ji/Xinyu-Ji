@@ -1,7 +1,7 @@
 ### Hi there 👋
 
- 🔭 I’m currently working on Motor Control and Optimal control of Robotics
- 🌱 I’m currently learning High-Performance Servo Controller  
+- 🔭 I’m currently working on Motor Control and Optimal control of Robotics
+- 🌱 I’m currently learning High-Performance Servo Controller  
 
 ### Get in touch
 

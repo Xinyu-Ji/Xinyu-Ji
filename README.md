@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Xinyu-Ji/Xinyu-Ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on Motor Control and Optimal control of Robotics
-- 🌱 I’m currently learning High-Performance Servo Controller  
+ 🔭 I’m currently working on Motor Control and Optimal control of Robotics
+ 🌱 I’m currently learning High-Performance Servo Controller  
 
 ### Get in touch
 

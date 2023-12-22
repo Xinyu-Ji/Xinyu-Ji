@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Motor Control/Optimal Control/RL/DRL of Robotics
+- 👋 I'm currently a Full-stack robot engineer.
+- 🔭 I’m currently working on Motor Control/Optimal Control/RL/DRL of Robotics.
 - 🌱 I’m currently learning High-Performance Servo Controller  
+-  
 - 
 ### Get in touch
 

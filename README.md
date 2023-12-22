@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Motor Control and Optimal Control of Robotics
+- 🔭 I’m currently working on Motor Control/Optimal Control/RL/DRL of Robotics
 - 🌱 I’m currently learning High-Performance Servo Controller  
-
+- 
 ### Get in touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/Xinyu-Ji)

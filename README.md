@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 👋 I'm currently a Full-stack robot engineer.
-- 🔭 I’m currently working on Motor Control/Optimal Control/RL/DRL of Robotics.
-- 🌱 I’m currently learning High-Performance Servo Controller  
+- 👋 I'm currently a Full-stack robot engineer, but I'm full in love with control system of ADRC/MPC/DRL.
+- 🔭 I’m currently working on Motor Control/Optimal Control/DRL of Robotics.
+- 🌱 I’m currently learning High-Performance Servo Controller.
 -  
-- 
 ### Get in touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/Xinyu-Ji)
